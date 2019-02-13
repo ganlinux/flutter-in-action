@@ -299,7 +299,7 @@ class MyDrawer extends StatelessWidget {
 
 ### FloatingActionButton
 
-FloatingActionButton是Material设计规范中的一种特殊Button，通常悬浮在页面的某一个位置作为某种常用动作的快捷入口，如本节示例中页面右下角的"➕"号按钮。我们可以通过Scaffold的`floatingActionButton`属性来设置一个FloatingActionButton，同时通过`floatingActionButtonLocation`属性来指定其在页面中悬浮的位置，这个比较简单，不在赘述。
+FloatingActionButton是Material设计规范中的一种特殊Button，通常悬浮在页面的某一个位置作为某种常用动作的快捷入口，如本节示例中页面右下角的"➕"号按钮。我们可以通过Scaffold的`floatingActionButton`属性来设置一个FloatingActionButton，同时通过`floatingActionButtonLocation`属性来指定其在页面中悬浮的位置，这个比较简单，不再赘述。
 
 ### 底部Tab导航栏
 
